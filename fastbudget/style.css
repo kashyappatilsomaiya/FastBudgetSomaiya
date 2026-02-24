@@ -1,0 +1,26 @@
+/* Navbar styling */
+.navbar {
+    background-color: #6895c5;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Full-screen about section */
+.about {
+    background-color: #f8f9fa;
+    height: 80vh; /* slightly smaller so signup is visible after scrolling */
+    padding: 30px;
+}
+
+/* Sign Up Section */
+.signup-section {
+    background-color: #eef3f7;
+}
+
+/* Footer styling */
+footer {
+    background-color: #5f90c4;
+    color: white;
+}
